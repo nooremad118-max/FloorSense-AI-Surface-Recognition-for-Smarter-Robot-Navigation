@@ -1,0 +1,9 @@
+robot_data/
+outputs_approach_a/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+*.joblib
+*.pyc
+.DS_Store
